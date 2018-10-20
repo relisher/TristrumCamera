@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TristrumCamera</string>
+    <string name="lets_find">Let\'s find out!</string>
+    <string name="how_similar_am_i_to_tristrum">How similar am I to Tristrum?</string>
+    <string name="title_activity_display_results">DisplayResults</string>
+    <string name="try_again">Try Again</string>
+    <string name="appId">167e5764</string>
+    <string name="appKey">c5604eee81701e02a52a90f78d7c1be1</string>
+</resources>
